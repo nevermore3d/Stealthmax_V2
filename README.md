@@ -103,8 +103,10 @@ We've implemented numerous improvements to ensure a smoother user experience and
 
 ## 🚧 **Installation & Documentation**
 
-[Central3DPrinting Electronics Installation](https://docs.google.com/presentation/d/e/2PACX-1vQseX6O0ZcSdXpOdnfkClK4V5FH0Ed1FzcuMa7BvOZgEiaAOtqwpyQ51u74DkXTCRRQ-EDv1vXZ-xWn/pub?start=false&loop=false&delayms=3000&slide=id.p)
-Comprehensive installation guide, BOM (Bill of Materials), and detailed documentation for assembly will be provided shortly.
+**Assembly Guide**  
+Instructions for building the StealthMax V2 are in the [docs](./docs) folder.
+
+**Bill of Materials**
 | Category        | Item                             | Quantity | Notes                                               |
 |-----------------|----------------------------------|----------|-----------------------------------------------------|
 | **Connectors**  | [Wago 221-413](https://s.click.aliexpress.com/e/_oDV7bC9)                     | 2        |                                                     |
